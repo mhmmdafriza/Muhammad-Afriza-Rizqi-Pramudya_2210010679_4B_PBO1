@@ -144,13 +144,13 @@ System.out.print("Apakah ada sidecar (true/false): ");
 boolean adaSidecar = Boolean.parseBoolean(scanner.nextLine());
 ```
 
-13. **Array** adalah struktur data yang digunakan untuk menyimpan beberapa nilai dalam satu variabel. Pada kode ini, `Kendaraan[] garasi = new Kendaraan[2];` adalah contoh penggunaan array.
+11. **Array** adalah struktur data yang digunakan untuk menyimpan beberapa nilai dalam satu variabel. Pada kode ini, `Kendaraan[] garasi = new Kendaraan[2];` adalah contoh penggunaan array.
 
 ```bash
 Kendaraan[] garasi = new Kendaraan[2];
 ```
 
-14. **Error Handling** digunakan untuk menangani error yang mungkin terjadi saat runtime. Pada kode ini, digunakan `try catch` untuk menangani error.
+12. **Error Handling** digunakan untuk menangani error yang mungkin terjadi saat runtime. Pada kode ini, digunakan `try catch` untuk menangani error.
 
 ```bash
 try {
